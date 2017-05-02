@@ -7,5 +7,5 @@ Ormerod,   John   T.,   Chong   You,   and   Samuel   Muller.   ”A   variation
 
 bvs.m = Bayesian variable selection via variational inference
 LDA1.m = Latent Dirichlet Allocation on data set 20ng.mat
-SmoothedLDA.m= Smooth LDA Model on dat set 20ng.mat
+SmoothedLDA.m= Smooth LDA Model on data set 20ng.mat
 CAVI.m= Gaussian Mixture Model via Variational inference
